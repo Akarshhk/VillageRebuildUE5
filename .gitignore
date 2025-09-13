@@ -1,0 +1,7 @@
+# Unreal build artifacts
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
